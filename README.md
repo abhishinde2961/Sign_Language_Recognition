@@ -1,5 +1,5 @@
 # Sign_Language_Recognition
-#Overview
+**Overview**
 This project is a Sign Language Recognition system that utilizes machine learning to identify and interpret sign language gestures. Built using TensorFlow and OpenCV, this system is designed to help bridge the communication gap for individuals who use sign language.
 
 Features
